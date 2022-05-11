@@ -1,5 +1,5 @@
 # A-Study-of-Linux-eBPF_CS571
-A Study of Linux eBPF
+A Study of Linux eBPF. This project is conducted by Zhaoyuan Su and Renyuan Liu, and advised by Dr.Yue Cheng From George Mason University.
 
 CS571_A Study of Linux eBPF_checkpoint1.pdf
 This is the first checkpoint report for the project.
